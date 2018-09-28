@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "mithril": "^1.1.6",
+    "poi": "^10.2.10"
+  },
+  "name": "tem",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Aarni Koskela",
+  "license": "MIT",
+  "scripts": {
+  	"dev": "poi"
+  }
+}
